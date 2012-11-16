@@ -1,0 +1,37 @@
+{
+    "hash": "fd962853cb99aa2ca4b978224ae94cb0",
+    "packages": [
+
+    ],
+    "packages-dev": [
+        {
+            "name": "git-podrecznik/wiersze",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/git-podrecznik/wiersze.git",
+                "reference": "5b54cce5c51234c5d0c6c72136ed1ecfb53c30b0"
+            },
+            "time": "1353081978",
+            "type": "library",
+            "installation-source": "source",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Włodzimierz Gajda",
+                    "email": "gajdaw@gajdaw.pl"
+                }
+            ],
+            "description": "Lorem..."
+        }
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "git-podrecznik/wiersze": 20
+    }
+}
